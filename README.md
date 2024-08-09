@@ -33,8 +33,9 @@ The model used is a Cobb-Douglas function incorporating ICT expenditures for tec
 Materials Included:
 1. STATA Code: The .do files containing the STATA code for modeling GDP growth with independent cultural variables this is under the Main Branch.
 2. Data Files: The dataset files, including .dta files used for analysis. The final, merged dataset includes over 8,000 observations sourced from multiple international datasets, this is under the Data Merging Branch.
-3. CSV Files: For easy viewing, the dataset has been exported to .csv format.
-4. Presentation Slides: A presentation of key findings, which was presented at the 2024 Stander Symposium.
+3. Research Essay and Presentation Slides: The research essay and slides included is solely the written work of myself and should not be republished under any other licenses or personal use, rather they meant to be educational and illustrate the skills employed in presenting this work.
+4. CSV Files: For easy viewing, the dataset has been exported to .csv format.
+5. Presentation Slides: A presentation of key findings, which was presented at the 2024 Stander Symposium.
 
 How to Use This Repository:
 1. Running the Analysis
