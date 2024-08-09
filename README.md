@@ -31,7 +31,7 @@ The study investigates how digital cultural factors influence economic growth. I
 The model used is a Cobb-Douglas function incorporating ICT expenditures for technology and the aforementioned variables.
 
 Materials Included:
-1. STATA Code: The .do files containing the STATA code for modeling GDP growth with independent cultural variables this is under the Data Analysis Branch.
+1. STATA Code: The .do files containing the STATA code for modeling GDP growth with independent cultural variables this is under the Main Branch.
 2. Data Files: The dataset files, including .dta files used for analysis. The final, merged dataset includes over 8,000 observations sourced from multiple international datasets, this is under the Data Merging Branch.
 3. CSV Files: For easy viewing, the dataset has been exported to .csv format.
 4. Presentation Slides: A presentation of key findings, which was presented at the 2024 Stander Symposium.
