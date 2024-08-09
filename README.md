@@ -45,3 +45,7 @@ How to Use This Repository:
 2. Viewing Results
    Access the research report and presentation slides in the reports/ directory.
    The .csv files in the data/ directory are available for easy viewing of the dataset
+
+
+Note:
+- The data merge branch includes both .dta and .csv's for the appropriate data. The final merge of all datasets is observed in the research_rgdp.do file which creates research.do used in the main branch.
