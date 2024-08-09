@@ -1,0 +1,353 @@
+Country,year,tv
+Australia,2016,
+Australia,2017,
+Australia,2018,
+Australia,2019,
+Australia,2020,
+Australia,2021,
+Australia,2022,
+Australia,2023,
+Austria,2016,29.1264
+Austria,2017,
+Austria,2018,26.9726
+Austria,2019,
+Austria,2020,37.6848
+Austria,2021,
+Austria,2022,41.1306
+Austria,2023,
+Belgium,2016,21.1019
+Belgium,2017,
+Belgium,2018,24.302
+Belgium,2019,
+Belgium,2020,33.4112
+Belgium,2021,
+Belgium,2022,38.6275
+Belgium,2023,
+Brazil,2016,
+Brazil,2017,
+Brazil,2018,
+Brazil,2019,
+Brazil,2020,
+Brazil,2021,
+Brazil,2022,
+Brazil,2023,
+Bulgaria,2016,13.6149
+Bulgaria,2017,
+Bulgaria,2018,16.3816
+Bulgaria,2019,
+Bulgaria,2020,16.528
+Bulgaria,2021,
+Bulgaria,2022,22.9907
+Bulgaria,2023,
+Canada,2016,
+Canada,2017,
+Canada,2018,
+Canada,2019,
+Canada,2020,
+Canada,2021,
+Canada,2022,
+Canada,2023,
+Chile,2016,
+Chile,2017,
+Chile,2018,
+Chile,2019,
+Chile,2020,
+Chile,2021,
+Chile,2022,
+Chile,2023,
+Colombia,2016,
+Colombia,2017,
+Colombia,2018,
+Colombia,2019,
+Colombia,2020,
+Colombia,2021,
+Colombia,2022,
+Colombia,2023,
+Costa Rica,2016,
+Costa Rica,2017,
+Costa Rica,2018,
+Costa Rica,2019,
+Costa Rica,2020,
+Costa Rica,2021,
+Costa Rica,2022,
+Costa Rica,2023,
+Croatia,2016,16.7727
+Croatia,2017,
+Croatia,2018,19.6638
+Croatia,2019,
+Croatia,2020,26.173
+Croatia,2021,
+Croatia,2022,23.3191
+Croatia,2023,
+Czechia,2016,25.7954
+Czechia,2017,
+Czechia,2018,26.3361
+Czechia,2019,
+Czechia,2020,31.6325
+Czechia,2021,
+Czechia,2022,40.882
+Czechia,2023,
+Denmark,2016,48.8358
+Denmark,2017,
+Denmark,2018,57.7854
+Denmark,2019,
+Denmark,2020,68.8163
+Denmark,2021,
+Denmark,2022,69.1562
+Denmark,2023,
+Egypt,2016,
+Egypt,2017,
+Egypt,2018,
+Egypt,2019,
+Egypt,2020,
+Egypt,2021,
+Egypt,2022,
+Egypt,2023,
+Estonia,2016,37.2417
+Estonia,2017,
+Estonia,2018,37.013
+Estonia,2019,
+Estonia,2020,37.5646
+Estonia,2021,
+Estonia,2022,42.8437
+Estonia,2023,
+Finland,2016,65.2856
+Finland,2017,
+Finland,2018,69.99339999999999
+Finland,2019,
+Finland,2020,78.8437
+Finland,2021,
+Finland,2022,81.6374
+Finland,2023,
+France,2016,29.2479
+France,2017,
+France,2018,31.443
+France,2019,
+France,2020,
+France,2021,
+France,2022,42.3624
+France,2023,
+Germany,2016,35.4303
+Germany,2017,
+Germany,2018,43.9767
+Germany,2019,
+Germany,2020,54.2456
+Germany,2021,
+Germany,2022,35.317
+Germany,2023,
+Greece,2016,10.2742
+Greece,2017,
+Greece,2018,12.3829
+Greece,2019,
+Greece,2020,16.4241
+Greece,2021,
+Greece,2022,22.5401
+Greece,2023,
+Hungary,2016,16.8576
+Hungary,2017,
+Hungary,2018,24.1247
+Hungary,2019,
+Hungary,2020,34.9789
+Hungary,2021,
+Hungary,2022,50.0003
+Hungary,2023,
+Iceland,2016,
+Iceland,2017,
+Iceland,2018,64.4659
+Iceland,2019,
+Iceland,2020,78.6969
+Iceland,2021,
+Iceland,2022,
+Iceland,2023,
+Ireland,2016,32.1422
+Ireland,2017,
+Ireland,2018,38.9731
+Ireland,2019,
+Ireland,2020,45.8633
+Ireland,2021,
+Ireland,2022,57.6407
+Ireland,2023,
+Israel,2016,
+Israel,2017,
+Israel,2018,
+Israel,2019,
+Israel,2020,
+Israel,2021,
+Israel,2022,
+Israel,2023,
+Italy,2016,14.9302
+Italy,2017,
+Italy,2018,20.7308
+Italy,2019,
+Italy,2020,26.5379
+Italy,2021,
+Italy,2022,34.7039
+Italy,2023,
+Japan,2016,
+Japan,2017,
+Japan,2018,
+Japan,2019,
+Japan,2020,
+Japan,2021,
+Japan,2022,
+Japan,2023,
+Korea,2016,
+Korea,2017,
+Korea,2018,
+Korea,2019,
+Korea,2020,
+Korea,2021,
+Korea,2022,
+Korea,2023,
+Latvia,2016,20.755
+Latvia,2017,
+Latvia,2018,15.6243
+Latvia,2019,
+Latvia,2020,22.9888
+Latvia,2021,
+Latvia,2022,25.4325
+Latvia,2023,
+Lithuania,2016,27.8956
+Lithuania,2017,
+Lithuania,2018,38.457
+Lithuania,2019,
+Lithuania,2020,37.5824
+Lithuania,2021,
+Lithuania,2022,43.3401
+Lithuania,2023,
+Luxembourg,2016,34.9828
+Luxembourg,2017,
+Luxembourg,2018,35.4869
+Luxembourg,2019,
+Luxembourg,2020,39.9337
+Luxembourg,2021,
+Luxembourg,2022,32.339
+Luxembourg,2023,
+Mexico,2016,
+Mexico,2017,
+Mexico,2018,
+Mexico,2019,
+Mexico,2020,
+Mexico,2021,
+Mexico,2022,
+Mexico,2023,
+Netherlands,2016,46.9301
+Netherlands,2017,
+Netherlands,2018,58.8768
+Netherlands,2019,
+Netherlands,2020,68.52070000000001
+Netherlands,2021,
+Netherlands,2022,70.9551
+Netherlands,2023,
+New Zealand,2016,
+New Zealand,2017,
+New Zealand,2018,
+New Zealand,2019,
+New Zealand,2020,
+New Zealand,2021,
+New Zealand,2022,
+New Zealand,2023,
+Norway,2016,59.6181
+Norway,2017,
+Norway,2018,64.02460000000001
+Norway,2019,
+Norway,2020,78.0733
+Norway,2021,
+Norway,2022,83.133
+Norway,2023,
+OECD,2016,32.20976
+OECD,2017,32.20976
+OECD,2018,37.63255
+OECD,2019,37.63255
+OECD,2020,43.69961923076923
+OECD,2021,43.69961923076923
+OECD,2022,47.044172
+OECD,2023,47.044172
+Poland,2016,15.3937
+Poland,2017,
+Poland,2018,19.8452
+Poland,2019,
+Poland,2020,17.2893
+Poland,2021,
+Poland,2022,18.7276
+Poland,2023,
+Portugal,2016,24.1841
+Portugal,2017,
+Portugal,2018,29.0041
+Portugal,2019,
+Portugal,2020,33.9778
+Portugal,2021,
+Portugal,2022,38.1692
+Portugal,2023,
+Romania,2016,11.6683
+Romania,2017,
+Romania,2018,13.3476
+Romania,2019,
+Romania,2020,13.8722
+Romania,2021,
+Romania,2022,17.694
+Romania,2023,
+Slovak Republic,2016,19.2485
+Slovak Republic,2017,
+Slovak Republic,2018,24.2191
+Slovak Republic,2019,
+Slovak Republic,2020,24.4041
+Slovak Republic,2021,
+Slovak Republic,2022,30.5486
+Slovak Republic,2023,
+Slovenia,2016,24.4692
+Slovenia,2017,
+Slovenia,2018,20.695
+Slovenia,2019,
+Slovenia,2020,35.6613
+Slovenia,2021,
+Slovenia,2022,46.6588
+Slovenia,2023,
+Spain,2016,35.6616
+Spain,2017,
+Spain,2018,39.1496
+Spain,2019,
+Spain,2020,46.7439
+Spain,2021,
+Spain,2022,50.181
+Spain,2023,
+Sweden,2016,63.6911
+Sweden,2017,
+Sweden,2018,65.0311
+Sweden,2019,
+Sweden,2020,70.6237
+Sweden,2021,
+Sweden,2022,70.6819
+Sweden,2023,
+Switzerland,2016,
+Switzerland,2017,
+Switzerland,2018,
+Switzerland,2019,
+Switzerland,2020,
+Switzerland,2021,
+Switzerland,2022,
+Switzerland,2023,
+Türkiye,2016,19.6886
+Türkiye,2017,
+Türkiye,2018,28.4483
+Türkiye,2019,
+Türkiye,2020,23.1636
+Türkiye,2021,
+Türkiye,2022,30.3988
+Türkiye,2023,
+United Kingdom,2016,46.4564
+United Kingdom,2017,
+United Kingdom,2018,61.0847
+United Kingdom,2019,
+United Kingdom,2020,
+United Kingdom,2021,
+United Kingdom,2022,
+United Kingdom,2023,
+United States,2016,
+United States,2017,
+United States,2018,
+United States,2019,
+United States,2020,
+United States,2021,
+United States,2022,
+United States,2023,

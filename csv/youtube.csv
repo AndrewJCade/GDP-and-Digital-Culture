@@ -1,0 +1,689 @@
+Country,year,ytb
+Austria,2008,7.5822
+Austria,2009,16.6672
+Austria,2010,19.6301
+Austria,2011,
+Austria,2012,24.926
+Austria,2013,
+Austria,2014,20.9517
+Austria,2015,28.9221
+Austria,2016,19.3251
+Austria,2017,22.9066
+Austria,2018,
+Austria,2019,21.3063
+Austria,2020,33.9995
+Austria,2021,
+Austria,2022,
+Austria,2023,
+Belgium,2008,5.4641
+Belgium,2009,17.7911
+Belgium,2010,17.8533
+Belgium,2011,
+Belgium,2012,20.4372
+Belgium,2013,
+Belgium,2014,22.172
+Belgium,2015,21.7641
+Belgium,2016,25.1776
+Belgium,2017,21.7147
+Belgium,2018,
+Belgium,2019,22.8326
+Belgium,2020,35.0984
+Belgium,2021,
+Belgium,2022,
+Belgium,2023,
+Brazil,2008,
+Brazil,2009,
+Brazil,2010,
+Brazil,2011,
+Brazil,2012,
+Brazil,2013,18.2
+Brazil,2014,22
+Brazil,2015,22.4
+Brazil,2016,23.33823368
+Brazil,2017,26.52550819
+Brazil,2018,30.07193556
+Brazil,2019,28.42711095
+Brazil,2020,28.07
+Brazil,2021,26.94
+Brazil,2022,37
+Brazil,2023,30.79
+Bulgaria,2008,2.5689
+Bulgaria,2009,8.069699999999999
+Bulgaria,2010,12.2187
+Bulgaria,2011,
+Bulgaria,2012,15.8787
+Bulgaria,2013,
+Bulgaria,2014,19.4771
+Bulgaria,2015,20.6096
+Bulgaria,2016,21.1824
+Bulgaria,2017,29.082
+Bulgaria,2018,
+Bulgaria,2019,19.5997
+Bulgaria,2020,23.4777
+Bulgaria,2021,
+Bulgaria,2022,
+Bulgaria,2023,
+Canada,2008,
+Canada,2009,
+Canada,2010,
+Canada,2011,
+Canada,2012,
+Canada,2013,
+Canada,2014,
+Canada,2015,
+Canada,2016,
+Canada,2017,
+Canada,2018,11.5779
+Canada,2019,
+Canada,2020,13.5
+Canada,2021,
+Canada,2022,13.77
+Canada,2023,
+Chile,2008,
+Chile,2009,
+Chile,2010,
+Chile,2011,
+Chile,2012,
+Chile,2013,
+Chile,2014,25.88416199
+Chile,2015,27.06603938
+Chile,2016,37.60115002
+Chile,2017,38.40370129
+Chile,2018,
+Chile,2019,
+Chile,2020,
+Chile,2021,
+Chile,2022,
+Chile,2023,
+Colombia,2008,
+Colombia,2009,
+Colombia,2010,
+Colombia,2011,
+Colombia,2012,
+Colombia,2013,
+Colombia,2014,
+Colombia,2015,
+Colombia,2016,
+Colombia,2017,
+Colombia,2018,
+Colombia,2019,
+Colombia,2020,
+Colombia,2021,
+Colombia,2022,
+Colombia,2023,
+Costa Rica,2008,
+Costa Rica,2009,
+Costa Rica,2010,
+Costa Rica,2011,
+Costa Rica,2012,
+Costa Rica,2013,
+Costa Rica,2014,
+Costa Rica,2015,
+Costa Rica,2016,
+Costa Rica,2017,13.4
+Costa Rica,2018,11.89251835
+Costa Rica,2019,
+Costa Rica,2020,
+Costa Rica,2021,
+Costa Rica,2022,
+Costa Rica,2023,
+Croatia,2008,6.0739
+Croatia,2009,20.6028
+Croatia,2010,10.5043
+Croatia,2011,
+Croatia,2012,31.3549
+Croatia,2013,
+Croatia,2014,14.4738
+Croatia,2015,18.3138
+Croatia,2016,19.0218
+Croatia,2017,24.5992
+Croatia,2018,
+Croatia,2019,30.663
+Croatia,2020,35.9713
+Croatia,2021,
+Croatia,2022,
+Croatia,2023,
+Czechia,2008,1.9918
+Czechia,2009,5.0996
+Czechia,2010,6.3919
+Czechia,2011,
+Czechia,2012,.0824
+Czechia,2013,
+Czechia,2014,15.2862
+Czechia,2015,18.8342
+Czechia,2016,33.2116
+Czechia,2017,35.3057
+Czechia,2018,
+Czechia,2019,41.3857
+Czechia,2020,41.3515
+Czechia,2021,
+Czechia,2022,
+Czechia,2023,
+Denmark,2008,13.5476
+Denmark,2009,33.057
+Denmark,2010,37.281
+Denmark,2011,
+Denmark,2012,43.2404
+Denmark,2013,
+Denmark,2014,51.1535
+Denmark,2015,50.9723
+Denmark,2016,42.2305
+Denmark,2017,50.1999
+Denmark,2018,
+Denmark,2019,52.2005
+Denmark,2020,59.5419
+Denmark,2021,
+Denmark,2022,
+Denmark,2023,
+Egypt,2008,
+Egypt,2009,
+Egypt,2010,
+Egypt,2011,
+Egypt,2012,
+Egypt,2013,
+Egypt,2014,
+Egypt,2015,
+Egypt,2016,
+Egypt,2017,
+Egypt,2018,
+Egypt,2019,9.337240721000001
+Egypt,2020,14.25
+Egypt,2021,
+Egypt,2022,14.25
+Egypt,2023,
+Estonia,2008,21.6023
+Estonia,2009,29.9849
+Estonia,2010,31.8479
+Estonia,2011,
+Estonia,2012,30.9889
+Estonia,2013,
+Estonia,2014,25.6416
+Estonia,2015,37.9105
+Estonia,2016,29.0209
+Estonia,2017,37.9046
+Estonia,2018,
+Estonia,2019,36.1235
+Estonia,2020,41.2968
+Estonia,2021,
+Estonia,2022,
+Estonia,2023,
+Finland,2008,9.3828
+Finland,2009,18.3563
+Finland,2010,15.1271
+Finland,2011,
+Finland,2012,30.4478
+Finland,2013,
+Finland,2014,38.4387
+Finland,2015,26.6238
+Finland,2016,24.5336
+Finland,2017,28.0016
+Finland,2018,
+Finland,2019,26.8854
+Finland,2020,56.1892
+Finland,2021,
+Finland,2022,
+Finland,2023,
+France,2008,17.1884
+France,2009,23.1421
+France,2010,26.4721
+France,2011,
+France,2012,28.9173
+France,2013,
+France,2014,
+France,2015,24.3185
+France,2016,23.2849
+France,2017,26.1067
+France,2018,
+France,2019,22.9897
+France,2020,
+France,2021,
+France,2022,
+France,2023,
+Germany,2008,14.4802
+Germany,2009,23.3398
+Germany,2010,21.7719
+Germany,2011,
+Germany,2012,23.7901
+Germany,2013,
+Germany,2014,23.2233
+Germany,2015,30.0658
+Germany,2016,20.6849
+Germany,2017,30.2938
+Germany,2018,
+Germany,2019,35.4096
+Germany,2020,38.7608
+Germany,2021,
+Germany,2022,
+Germany,2023,
+Greece,2008,4.4628
+Greece,2009,8.712999999999999
+Greece,2010,9.5817
+Greece,2011,
+Greece,2012,17.9817
+Greece,2013,
+Greece,2014,21.6501
+Greece,2015,23.247
+Greece,2016,24.1332
+Greece,2017,32.3449
+Greece,2018,
+Greece,2019,34.9442
+Greece,2020,37.5266
+Greece,2021,
+Greece,2022,
+Greece,2023,
+Hungary,2008,16.6587
+Hungary,2009,28.2732
+Hungary,2010,33.4521
+Hungary,2011,
+Hungary,2012,37.0123
+Hungary,2013,
+Hungary,2014,36.769
+Hungary,2015,42.3512
+Hungary,2016,36.1033
+Hungary,2017,41.1631
+Hungary,2018,
+Hungary,2019,28.0973
+Hungary,2020,37.8709
+Hungary,2021,
+Hungary,2022,
+Hungary,2023,
+Iceland,2008,19.9704
+Iceland,2009,43.1786
+Iceland,2010,41.3629
+Iceland,2011,
+Iceland,2012,58.4424
+Iceland,2013,
+Iceland,2014,56.3203
+Iceland,2015,
+Iceland,2016,
+Iceland,2017,68.30200000000001
+Iceland,2018,
+Iceland,2019,64.3334
+Iceland,2020,73.2891
+Iceland,2021,
+Iceland,2022,
+Iceland,2023,
+Ireland,2008,7.8262
+Ireland,2009,12.5631
+Ireland,2010,13.9577
+Ireland,2011,
+Ireland,2012,28.8613
+Ireland,2013,
+Ireland,2014,34.7064
+Ireland,2015,34.6038
+Ireland,2016,36.9581
+Ireland,2017,39.5964
+Ireland,2018,
+Ireland,2019,37.2532
+Ireland,2020,35.7602
+Ireland,2021,
+Ireland,2022,
+Ireland,2023,
+Israel,2008,
+Israel,2009,
+Israel,2010,
+Israel,2011,
+Israel,2012,
+Israel,2013,
+Israel,2014,
+Israel,2015,
+Israel,2016,
+Israel,2017,
+Israel,2018,
+Israel,2019,
+Israel,2020,
+Israel,2021,
+Israel,2022,
+Israel,2023,
+Italy,2008,6.5328
+Italy,2009,16.8868
+Italy,2010,18.7372
+Italy,2011,
+Italy,2012,17.9952
+Italy,2013,
+Italy,2014,21.406
+Italy,2015,21.7417
+Italy,2016,22.3437
+Italy,2017,21.91
+Italy,2018,
+Italy,2019,22.4921
+Italy,2020,28.8864
+Italy,2021,
+Italy,2022,
+Italy,2023,
+Japan,2008,
+Japan,2009,
+Japan,2010,
+Japan,2011,
+Japan,2012,
+Japan,2013,
+Japan,2014,
+Japan,2015,
+Japan,2016,
+Japan,2017,
+Japan,2018,
+Japan,2019,
+Japan,2020,
+Japan,2021,
+Japan,2022,
+Japan,2023,
+Korea,2008,
+Korea,2009,
+Korea,2010,
+Korea,2011,
+Korea,2012,
+Korea,2013,
+Korea,2014,3.515519124
+Korea,2015,36.48498984
+Korea,2016,46.54335355
+Korea,2017,50.37053417
+Korea,2018,60.73777729
+Korea,2019,59.84404673
+Korea,2020,62.38233954
+Korea,2021,70.55062039000001
+Korea,2022,68.69805268
+Korea,2023,
+Latvia,2008,19.3419
+Latvia,2009,33.8012
+Latvia,2010,38.4521
+Latvia,2011,
+Latvia,2012,32.0833
+Latvia,2013,
+Latvia,2014,28.9238
+Latvia,2015,28.1156
+Latvia,2016,28.6967
+Latvia,2017,31.6453
+Latvia,2018,
+Latvia,2019,24.4131
+Latvia,2020,34.5643
+Latvia,2021,
+Latvia,2022,
+Latvia,2023,
+Lithuania,2008,7.5937
+Lithuania,2009,25.3441
+Lithuania,2010,28.0058
+Lithuania,2011,
+Lithuania,2012,29.9479
+Lithuania,2013,
+Lithuania,2014,35.2618
+Lithuania,2015,32.5723
+Lithuania,2016,37.4585
+Lithuania,2017,36.9141
+Lithuania,2018,
+Lithuania,2019,34.1222
+Lithuania,2020,36.5675
+Lithuania,2021,
+Lithuania,2022,
+Lithuania,2023,
+Luxembourg,2008,15.0196
+Luxembourg,2009,37.9823
+Luxembourg,2010,35.0088
+Luxembourg,2011,
+Luxembourg,2012,30.3952
+Luxembourg,2013,
+Luxembourg,2014,26.9239
+Luxembourg,2015,46.9303
+Luxembourg,2016,43.5593
+Luxembourg,2017,47.6119
+Luxembourg,2018,
+Luxembourg,2019,32.8173
+Luxembourg,2020,27.132
+Luxembourg,2021,
+Luxembourg,2022,
+Luxembourg,2023,
+Mexico,2008,
+Mexico,2009,
+Mexico,2010,
+Mexico,2011,
+Mexico,2012,
+Mexico,2013,
+Mexico,2014,
+Mexico,2015,13.80406682
+Mexico,2016,18.04033889
+Mexico,2017,15.05347652
+Mexico,2018,14.99522075
+Mexico,2019,14.47749462
+Mexico,2020,15.04266943
+Mexico,2021,15.68620261
+Mexico,2022,16.77066238
+Mexico,2023,
+Netherlands,2008,18.9046
+Netherlands,2009,26.1312
+Netherlands,2010,26.6325
+Netherlands,2011,
+Netherlands,2012,47.7061
+Netherlands,2013,
+Netherlands,2014,49.8552
+Netherlands,2015,47.2016
+Netherlands,2016,45.9752
+Netherlands,2017,51.7138
+Netherlands,2018,
+Netherlands,2019,52.9129
+Netherlands,2020,50.1672
+Netherlands,2021,
+Netherlands,2022,
+Netherlands,2023,
+New Zealand,2008,
+New Zealand,2009,
+New Zealand,2010,
+New Zealand,2011,
+New Zealand,2012,
+New Zealand,2013,
+New Zealand,2014,
+New Zealand,2015,
+New Zealand,2016,
+New Zealand,2017,
+New Zealand,2018,
+New Zealand,2019,
+New Zealand,2020,
+New Zealand,2021,
+New Zealand,2022,
+New Zealand,2023,
+Norway,2008,11.7365
+Norway,2009,24.2367
+Norway,2010,26.5359
+Norway,2011,
+Norway,2012,26.6388
+Norway,2013,
+Norway,2014,29.8709
+Norway,2015,34.7069
+Norway,2016,26.9607
+Norway,2017,37.7156
+Norway,2018,
+Norway,2019,43.6968
+Norway,2020,51.9626
+Norway,2021,
+Norway,2022,
+Norway,2023,
+OECD,2008,11.27760384615385
+OECD,2009,21.50734230769231
+OECD,2010,23.3296
+OECD,2011,23.3296
+OECD,2012,28.07783703703704
+OECD,2013,28.07783703703704
+OECD,2014,28.82812348668966
+OECD,2015,31.32987320133333
+OECD,2016,31.197588082
+OECD,2017,34.937462249375
+OECD,2018,34.49630902060606
+OECD,2019,32.52511954515152
+OECD,2020,36.64121856393939
+OECD,2021,36.9657211984375
+OECD,2022,37.75846619548387
+OECD,2023,38.26697420896552
+Poland,2008,7.1125
+Poland,2009,10.7847
+Poland,2010,11.2698
+Poland,2011,
+Poland,2012,14.7029
+Poland,2013,
+Poland,2014,12.4675
+Poland,2015,12.4544
+Poland,2016,15.3081
+Poland,2017,22.3137
+Poland,2018,
+Poland,2019,21.0697
+Poland,2020,18.1295
+Poland,2021,
+Poland,2022,
+Poland,2023,
+Portugal,2008,7.0642
+Portugal,2009,12.3263
+Portugal,2010,20.575
+Portugal,2011,
+Portugal,2012,32.7845
+Portugal,2013,
+Portugal,2014,37.56
+Portugal,2015,42.2298
+Portugal,2016,40.3469
+Portugal,2017,44.0352
+Portugal,2018,
+Portugal,2019,39.4269
+Portugal,2020,39.6286
+Portugal,2021,
+Portugal,2022,
+Portugal,2023,
+Romania,2008,5.4275
+Romania,2009,14.2569
+Romania,2010,15.4486
+Romania,2011,
+Romania,2012,14.5277
+Romania,2013,
+Romania,2014,13.807
+Romania,2015,20.6881
+Romania,2016,18.3377
+Romania,2017,28.9966
+Romania,2018,
+Romania,2019,14.7714
+Romania,2020,15.4116
+Romania,2021,
+Romania,2022,
+Romania,2023,
+Slovak Republic,2008,4.4768
+Slovak Republic,2009,7.293
+Slovak Republic,2010,9.2469
+Slovak Republic,2011,
+Slovak Republic,2012,20.8764
+Slovak Republic,2013,
+Slovak Republic,2014,17.6963
+Slovak Republic,2015,5.87
+Slovak Republic,2016,17.3974
+Slovak Republic,2017,26.7113
+Slovak Republic,2018,
+Slovak Republic,2019,20.2979
+Slovak Republic,2020,25.6452
+Slovak Republic,2021,
+Slovak Republic,2022,
+Slovak Republic,2023,
+Slovenia,2008,9.9201
+Slovenia,2009,22.8692
+Slovenia,2010,28.6575
+Slovenia,2011,
+Slovenia,2012,22.7637
+Slovenia,2013,
+Slovenia,2014,27.053
+Slovenia,2015,27.2723
+Slovenia,2016,24.8696
+Slovenia,2017,28.25
+Slovenia,2018,
+Slovenia,2019,30.0432
+Slovenia,2020,35.146
+Slovenia,2021,
+Slovenia,2022,
+Slovenia,2023,
+Spain,2008,8.1837
+Spain,2009,18.8207
+Spain,2010,23.0026
+Spain,2011,
+Spain,2012,31.7443
+Spain,2013,
+Spain,2014,35.1197
+Spain,2015,32.3876
+Spain,2016,30.8965
+Spain,2017,35.7226
+Spain,2018,
+Spain,2019,31.3417
+Spain,2020,37.9496
+Spain,2021,
+Spain,2022,
+Spain,2023,
+Sweden,2008,14.7913
+Sweden,2009,21.2009
+Sweden,2010,27.5905
+Sweden,2011,
+Sweden,2012,34.1649
+Sweden,2013,
+Sweden,2014,42.5033
+Sweden,2015,37.7769
+Sweden,2016,30.9262
+Sweden,2017,48.5331
+Sweden,2018,
+Sweden,2019,37.4976
+Sweden,2020,39.5774
+Sweden,2021,
+Sweden,2022,
+Sweden,2023,
+Switzerland,2008,
+Switzerland,2009,
+Switzerland,2010,18.3
+Switzerland,2011,
+Switzerland,2012,
+Switzerland,2013,
+Switzerland,2014,20.0723
+Switzerland,2015,
+Switzerland,2016,
+Switzerland,2017,27.7016
+Switzerland,2018,
+Switzerland,2019,39.480284
+Switzerland,2020,
+Switzerland,2021,42.455037
+Switzerland,2022,
+Switzerland,2023,
+Türkiye,2008,3.8415
+Türkiye,2009,8.188000000000001
+Türkiye,2010,11.3856
+Türkiye,2011,
+Türkiye,2012,14.3723
+Türkiye,2013,
+Türkiye,2014,23.171
+Türkiye,2015,31.8715
+Türkiye,2016,27.4088
+Türkiye,2017,39.4258
+Türkiye,2018,
+Türkiye,2019,31.4497
+Türkiye,2020,37.1173
+Türkiye,2021,
+Türkiye,2022,
+Türkiye,2023,
+United Kingdom,2008,18.541
+United Kingdom,2009,33.1599
+United Kingdom,2010,31.7693
+United Kingdom,2011,
+United Kingdom,2012,38.4983
+United Kingdom,2013,
+United Kingdom,2014,23.5011
+United Kingdom,2015,45.4043
+United Kingdom,2016,50.5389
+United Kingdom,2017,52.4197
+United Kingdom,2018,
+United Kingdom,2019,37.7805
+United Kingdom,2020,
+United Kingdom,2021,
+United Kingdom,2022,
+United Kingdom,2023,
+United States,2008,
+United States,2009,
+United States,2010,
+United States,2011,
+United States,2012,
+United States,2013,
+United States,2014,
+United States,2015,
+United States,2016,
+United States,2017,14.30738
+United States,2018,
+United States,2019,14.53
+United States,2020,
+United States,2021,14.89
+United States,2022,
+United States,2023,
